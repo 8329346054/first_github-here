@@ -1,2 +1,2 @@
 # first_github-here
-it is first repository filr
+it is first repository file
